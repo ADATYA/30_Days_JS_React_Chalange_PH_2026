@@ -2,7 +2,7 @@
 
 for (let i = 0; i< 5; i++){
     console.log(`count: ${i}`);
-}
+}d
 
 for (let a = 7; a >= 0; a--){
     console.log("count value is:",a);
