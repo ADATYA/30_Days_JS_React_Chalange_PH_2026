@@ -1,4 +1,4 @@
-//we will build a  order processing system to understand dry and how important a function is.
+J//we will build a  order processing system to understand dry and how important a function is.
 
 function isValidPrice(price){
     return typeof price == "number" && price>0;
