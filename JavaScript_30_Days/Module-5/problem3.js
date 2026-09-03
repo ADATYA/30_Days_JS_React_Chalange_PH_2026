@@ -43,13 +43,13 @@ function validateUsername(username){
 //output:
 
 // Test cases
-console.log(validateUsername("bikrom123"));    // "Available"
-console.log(validateUsername("s b"));          // "Too Short"
-console.log(validateUsername("s b"));         // "Too Short"
-console.log(validateUsername("abcd"));        // "Available"
-console.log(validateUsername("bikrom adatya roy")); // "No Space Allowed"
-console.log(validateUsername("adiisadmin73"));// "Reserved Word"
-console.log(validateUsername("Bikrom_Roy")); // "Reserved Word"
+console.log(validateUsername("bikrom123"));    
+console.log(validateUsername("s b"));          
+console.log(validateUsername("s b"));         
+console.log(validateUsername("abcd"));        
+console.log(validateUsername("bikrom adatya roy")); 
+console.log(validateUsername("adiisadmin73"));
+console.log(validateUsername("Bikrom_Roy")); 
 
 //Answers: 
 /* 
