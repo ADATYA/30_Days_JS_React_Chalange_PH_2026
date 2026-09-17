@@ -1,0 +1,29 @@
+Step1 : cmd
+step2: cd /d "E:\AI + Full Stack Web Development 2026\30_Days_JS_React_Challange\React_30_Days" (Jai kono file er name copy kore just past kore dite hobe)
+step3: E:\AI + Full Stack Web Development 2026\30_Days_JS_React_Challange\React_30_Days> (cmd update hoye jabe are emon dekhabe)
+# React Project making>>>
+step4: npm create vite@latest react-test-practice
+step5: Project name:
+step6: react-test-practice (Project name dibo)
+step7: Select a framework: > React
+step8: Select a variant: > JavaScript
+step9: cd react-test-practice
+step 10: npm install
+step 11: npm run dev (direct browser e niye jabe)
+
+
+//React projcet-1 : {Local host } Local:   http://localhost:5173/
+//React-practice-001: Local:   http://localhost:5173/
+
+
+/// Full Workflows..
+E:
+└── AI + Full Stack Web Development 2026
+    └── 30_Days_JS_React_Challange
+        └── React_30_Days
+            └── react-test-practice
+                ├── src
+                ├── public
+                ├── package.json
+                ├── vite.config.js
+                └── ...
